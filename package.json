@@ -1,6 +1,6 @@
 {
   "name": "refdata",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Client/Server for providing time series refdata",
   "scripts": {
     "lint": "eslint .",
