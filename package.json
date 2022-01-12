@@ -53,7 +53,7 @@
     "parse-cache-control": "^1.0.1",
     "parse-duration": "^0.1.1",
     "prepper": "^0.2.0",
-    "ramda": "^0.21.0",
+    "ramda": "^0.27.2",
     "request": "^2.75.0",
     "require-all": "^2.0.0",
     "systemic": "^0.6.0",
